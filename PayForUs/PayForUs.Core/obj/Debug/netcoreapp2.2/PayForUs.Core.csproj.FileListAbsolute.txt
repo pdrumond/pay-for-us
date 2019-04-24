@@ -1,0 +1,16 @@
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.deps.json
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.runtimeconfig.json
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.runtimeconfig.dev.json
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.dll
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.pdb
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\bin\Debug\netcoreapp2.2\PayForUs.Core.xml
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.RazorAssemblyInfo.cache
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.RazorAssemblyInfo.cs
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.AssemblyInfoInputs.cache
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.AssemblyInfo.cs
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.RazorTargetAssemblyInfo.cache
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.dll
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.xml
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.pdb
+D:\ProjetosEstudo\Stone\PayForUs\PayForUs.Core\obj\Debug\netcoreapp2.2\PayForUs.Core.csprojAssemblyReference.cache

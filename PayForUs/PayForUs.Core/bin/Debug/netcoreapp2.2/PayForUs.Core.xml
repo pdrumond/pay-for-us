@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PayForUs.Core</name>
+    </assembly>
+    <members>
+        <member name="M:PayForUs.Core.Controllers.CardController.GetAll">
+            <summary>
+            Lista os cards da To-do list.
+            </summary>
+            <returns>Os cards da To-do list</returns>
+            <response code="200">Retorna os cards da To-do list cadastrados</response>
+        </member>
+        <member name="M:PayForUs.Core.Controllers.ClientController.GetAll">
+            <summary>
+            Lista todos os clientes.
+            </summary>
+            <returns>Clientes</returns>
+            <response code="200">Returna os clientes cadastrados</response>
+        </member>
+        <member name="M:PayForUs.Core.Controllers.ClientController.Find(System.String)">
+            <summary>
+            Consulta cliente pelo cpf.
+            </summary>
+            <returns>Cliente</returns>
+            <response code="200">Returna o cliente</response>
+        </member>
+        <member name="M:PayForUs.Core.Controllers.ClientController.Post(PayForUs.Core.Models.Client)">
+            <summary>
+            Cadastra o Cliente.
+            </summary>
+            <param name="client"></param>
+            <returns>Ok</returns>
+            <response code="201">Ok</response>
+            <response code="400">If the item is null</response>      
+        </member>
+        <member name="M:PayForUs.Core.Controllers.StatusController.GetStatus">
+            <summary>
+            Lista todos os status de retorno.
+            </summary>
+            <returns>Status</returns>
+            <response code="200">Returna os status de retorno cadastrados</response>
+        </member>
+        <member name="M:PayForUs.Core.Controllers.TransactionController.Authorize(PayForUs.Core.Models.Transaction)">
+            <summary>
+            Autoriza transação do Cliente.
+            </summary>
+            <param name="transaction"></param>
+            <returns>Ok</returns>
+            <response code="201">Status</response>
+            <response code="400">If the item is null</response>     
+        </member>
+        <member name="M:PayForUs.Core.Controllers.TransactionController.GetAll">
+            <summary>
+            Lista as transações.
+            </summary>
+            <returns>Transações</returns>
+            <response code="200">Returna as transações realizadas cadastrados</response>
+        </member>
+    </members>
+</doc>
