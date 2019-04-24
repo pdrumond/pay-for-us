@@ -22,4 +22,17 @@ ASP.CORE
 
 ## Endpoints no Swagger
 https://localhost:44346/swagger
+- Card
+	* Lista os cards da To-do list.
+	* Consulta cartão
+- Cliente
+	* Lista todos os clientes.
+	* Cadastra o Cliente.
+	* Consulta cliente pelo cpf.
+- Status
+	* Lista todos os status de retorno.
+- Transaction
+	* Lista as transações.
+	* Autoriza transação do Cliente.
+
 

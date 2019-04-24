@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj": {}
+    "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj": {}
   },
   "projects": {
-    "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj": {
+    "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
+        "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
         "projectName": "PayForUs.Core",
-        "projectPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
+        "projectPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
         "packagesPath": "C:\\Users\\patricia\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\obj\\",
+        "outputPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj": {
+    "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj",
+        "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj",
         "projectName": "PayForUs.Tests",
-        "projectPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj",
+        "projectPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Tests\\PayForUs.Tests.csproj",
         "packagesPath": "C:\\Users\\patricia\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Tests\\obj\\",
+        "outputPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,8 +109,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj": {
-                "projectPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj"
+              "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj": {
+                "projectPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj"
               }
             }
           }

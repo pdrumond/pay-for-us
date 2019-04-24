@@ -13050,11 +13050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
+      "projectUniqueName": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
       "projectName": "PayForUs.Core",
-      "projectPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
+      "projectPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\PayForUs.Core.csproj",
       "packagesPath": "C:\\Users\\patricia\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetosEstudo\\Stone\\PayForUs\\PayForUs.Core\\obj\\",
+      "outputPath": "D:\\ProjetosEstudo\\Stone\\pay-for-us\\PayForUs\\PayForUs.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
