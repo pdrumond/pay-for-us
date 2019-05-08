@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayForUs.Core", "PayForUs.Core\PayForUs.Core.csproj", "{A35408B8-870F-4576-A6C9-9C183DD8D9CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayForUs.Tests", "PayForUs.Tests\PayForUs.Tests.csproj", "{36487238-D3A8-4D58-AF53-D563C54F9258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayForUs.Tests", "PayForUs.Tests\PayForUs.Tests.csproj", "{36487238-D3A8-4D58-AF53-D563C54F9258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayForUs.IntegrationTest", "PayForUs.IntegrationTest\PayForUs.IntegrationTest.csproj", "{2C2F8953-833E-4B93-A872-A72D07A5542C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{36487238-D3A8-4D58-AF53-D563C54F9258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36487238-D3A8-4D58-AF53-D563C54F9258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36487238-D3A8-4D58-AF53-D563C54F9258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2F8953-833E-4B93-A872-A72D07A5542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2F8953-833E-4B93-A872-A72D07A5542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2F8953-833E-4B93-A872-A72D07A5542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2F8953-833E-4B93-A872-A72D07A5542C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
